@@ -1,2 +1,2 @@
 # HackerRankSolved
-En este repositorio recopilo mis soluciones que he realizado en HackerRank
+In this repository I collect my solutions that I have made in HackerRank
